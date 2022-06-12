@@ -32,9 +32,9 @@ cargo +nightly contract build --release
 ```
 
 ### Resources
-https://ink.substrate.io/
-https://paritytech.github.io/ink/
-https://paritytech.github.io/contracts-ui
-https://docs.porta.network/developer-guide/smart-contracts/install-wasm-opt-version-101
-https://ink-playground.substrate.io/
-https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.shibuya.astar.network#/contracts
+- https://ink.substrate.io/
+- https://paritytech.github.io/ink/
+- https://paritytech.github.io/contracts-ui
+- https://docs.porta.network/developer-guide/smart-contracts/install-wasm-opt-version-101
+- https://ink-playground.substrate.io/
+- https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.shibuya.astar.network#/contracts
